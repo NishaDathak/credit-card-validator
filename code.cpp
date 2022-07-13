@@ -56,7 +56,7 @@ int main() {
         
         cout << (doubleEvenSum % 10 == 0 ? "Valid!" : "Invalid!") << endl;
         
-        continue;        
+            
     }
 
     return 0;
